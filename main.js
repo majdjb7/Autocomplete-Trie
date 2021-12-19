@@ -10,6 +10,6 @@ tree.addWord("w")
 
 // console.log(tree.findWord("word"))
 
-console.log(tree.children["w"].children["o"]);
+// console.log(tree.children["w"].children["o"]);
 
-// console.log(tree.predictWord("wo"))
+console.log(tree.predictWord("wo"))
